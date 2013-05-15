@@ -1,4 +1,4 @@
-This project is moved to StackForge. Sources can be found at `GitHub <http://github.com/stackforge/murano-api>`_. 
+This project is moved to StackForge. Sources can be found at `GitHub <http://github.com/stackforge/murano-conductor>`_. 
 
 Links:
 
